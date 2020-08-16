@@ -60,4 +60,4 @@ created API :https://run.mocky.io/v3/9e857634-f4e3-4474-8e6a-75bef1bf1ac3
 | [SDWebImage](https://github.com/SDWebImage/SDWebImage) | used to change url string to UIImage to view in UIImageView  |
 
 ## Gif
-![alt-text](https://iili.io/dwa342.gif)
+![](https://iili.io/dwacTg.gif)
