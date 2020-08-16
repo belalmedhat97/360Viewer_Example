@@ -6,9 +6,9 @@ I used online API creater: https://designer.mocky.io/ to create simple api which
 and used https://freeimage.host/ to host 36 images of one product 
 
 created API :https://run.mocky.io/v3/9e857634-f4e3-4474-8e6a-75bef1bf1ac3
-```diff 
-+ Response
-```
+ 
+### Response
+
 ``` 
 {
     "success": 1,
