@@ -56,5 +56,5 @@ created API :https://run.mocky.io/v3/9e857634-f4e3-4474-8e6a-75bef1bf1ac3
 ## pods
 | Pod  | Usage |
 | ------------- | ------------- |
-| [Alamofire](https://github.com/Alamofire/Alamofire)  | used to make request to API  |
+| [Alamofire](https://github.com/Alamofire/Alamofire)  | used for Networking and make requests to API  |
 | [SDWebImage](https://github.com/SDWebImage/SDWebImage) | used to change url string to UIImage to view in UIImageView  |
