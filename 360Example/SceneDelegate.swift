@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  360test
+//  360Example
 //
 //  Created by Belal medhat on 6/29/20.
 //  Copyright © 2020 Belal medhat. All rights reserved.
